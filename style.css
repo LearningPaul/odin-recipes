@@ -52,3 +52,7 @@ section{
     border: 2px solid black;
     
 }
+.container:hover{
+    width: 90%;
+    font-size: larger;
+}
