@@ -1,0 +1,29 @@
+
+main{
+   
+    width: 70%;
+    border: 2px solid grey;
+    box-shadow: 2px black;
+    margin: 0 auto;
+}
+h1, img{
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+}
+h2{
+    text-align: left;
+    margin-bottom: 5px;;
+}
+
+   
+
+p{
+    text-align: left;
+    margin-top: 5px;
+}
+
+ul, li{
+    text-align: left;
+    list-style: none;
+}
